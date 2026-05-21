@@ -19,7 +19,7 @@ git clone https://github.com/dori654/jones_automation_task.git
 npm install
 
 # 3. Install Playwright browsers
-npx playwright install chromium
+npx playwright install 
 ```
 
 ## Running the tests
